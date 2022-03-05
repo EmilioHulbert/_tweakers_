@@ -1,2 +1,2 @@
-# _tweakers_
-A script that implements most of bash syntax making it appealing 4 learning &amp; research
+Do tweak.sh --install or ./tweak.sh -i to install the script
+Run the program by just typing tweak on your terminal
